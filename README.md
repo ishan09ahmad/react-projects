@@ -8,5 +8,7 @@ Each project is a separate app focused on practicing frontend skills and buildin
 ## Projects
 - ** project 01: To-Do App
 
+- ** project 02: Dessert Restaurant
+
 
 
