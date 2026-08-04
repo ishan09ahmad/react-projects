@@ -5,6 +5,13 @@ Users can browse a list of desserts, add them to a cart, adjust quantities, and 
 
 ---
 
+## 🔗 Link
+
+- **Live Demo:** 
+🔗 [Live Demo](https://react-projects-h2j5.vercel.app/)
+
+---
+
 ## 📸 Screenshot
 
 ![Dessert Restaurant](./public/screenshots/Screenshot%202026-08-05%20005622.png)
@@ -13,11 +20,6 @@ Users can browse a list of desserts, add them to a cart, adjust quantities, and 
 
 ---
 
-## 🔗 Links
-
-- **Live Demo:** (https://react-projects-h2j5.vercel.app/)
-
----
 
 ## 🛠️ Built With
 
