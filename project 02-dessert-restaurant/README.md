@@ -15,7 +15,7 @@ Users can browse a list of desserts, add them to a cart, adjust quantities, and 
 
 ## 🔗 Links
 
-- **Live Demo:** ()
+- **Live Demo:** (https://react-projects-h2j5.vercel.app/)
 
 ---
 
