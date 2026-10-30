@@ -10,5 +10,7 @@ Each project is a separate app focused on practicing frontend skills and buildin
 
 - ** project 02: Dessert Restaurant
 
+- ** project 03: Multi-Step Subscription Form
+
 
 
