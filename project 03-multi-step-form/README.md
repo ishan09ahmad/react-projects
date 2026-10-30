@@ -12,11 +12,12 @@ A responsive and interactive **Multi-Step Subscription Form** built using **Reac
 
 ## 📸 Screenshots
 
-![Multi-Step Form Screenshot](./public//screenshots//desktop.png)
-![Multi-Step Form Screenshot](./public//screenshots//desktop2.png)
-![Multi-Step Form Screenshot](./public//screenshots//desktop3.png)
-![Multi-Step Form Screenshot](./public//screenshots//desktop4.png)
-![Multi-Step Form Screenshot](./public//screenshots//desktop5.png)
+![Multi-Step Form Screenshot](./public/screenshots/desktop.png)
+![Multi-Step Form Screenshot](./public/screenshots/desktop2.png)
+![Multi-Step Form Screenshot](./public/screenshots/desktop3.png)
+![Multi-Step Form Screenshot](./public/screenshots/desktop4.png)
+![Multi-Step Form Screenshot](./public/screenshots/desktop5.png)
+
 
 
 ---
